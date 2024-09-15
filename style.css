@@ -1,3 +1,4 @@
+@import url('https://fonts.cdnfonts.com/css/apple-chancery');
 body {
     margin: 0;
     background: #c69d4c;
@@ -139,9 +140,10 @@ body {
 }
 .intro-header{
 	position: absolute;
-	font-family: sans-serif;
+	font-family: 'Apple Chancery', sans-serif;
 	top: 40%;
 	left: 50%;
+    letter-spacing: 2px;
 	transform: translate(-50%, -50%);
 	color: rgb(32, 30, 30);
 }
